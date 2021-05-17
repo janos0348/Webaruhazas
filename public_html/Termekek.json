@@ -1,0 +1,39 @@
+{
+    "termekek": [
+        {
+            "ID": 1,
+            "nev": "A nagy utazás",
+            "ar": 3423,
+            "penznem": "Ft",
+            "kategoria": "könyv"
+        },
+        {
+            "ID": 2,
+            "nev": "Tesco szürke díszpárna",
+            "ar": 2101,
+            "penznem": "Ft",
+            "kategoria": "otthon"
+        },
+        {
+            "ID": 3,
+            "nev": "Barbeque Grill",
+            "ar": 321321,
+            "penznem": "Ft",
+            "kategoria": "kert"
+        },
+        {
+            "ID": 4,
+            "nev": "A kastély",
+            "ar": 3221,
+            "penznem": "Ft",
+            "kategoria": "könyv"
+        },
+        {
+            "ID": 5,
+            "nev": "Kerti ásó",
+            "ar": 1655,
+            "penznem": "Ft",
+            "kategoria": "kert"
+        }
+    ]
+}
